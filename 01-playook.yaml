@@ -1,4 +1,4 @@
-- name: ping the code
+- name: ping the node
   hosts: mongodb
   tasks:
   - name: ping the server
